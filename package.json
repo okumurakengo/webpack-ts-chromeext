@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@types/chrome": "^0.0.88",
+    "@types/webpack": "^4.39.1",
+    "copy-webpack-plugin": "^5.0.4",
+    "ts-loader": "^6.1.0",
+    "typescript": "^3.6.3",
+    "webpack": "^4.40.2",
+    "webpack-cli": "^3.3.8"
+  }
+}
